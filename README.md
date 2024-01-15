@@ -10,7 +10,7 @@
 |---|---|---|
 |[예진](https://github.com/yejincode)|[민협](https://github.com/GBGreenBravo)|[병룡](https://github.com/fingersdanny)|
 
-## 졸업
+## [휴학생](https://www.youtube.com/watch?v=UDFSRrjL-qg&si=zyeEKHq3yVgJhJrN)
 |Backend|Backend|
 |---|---|
 |[주광](https://github.com/Hju95)|[윤선](https://github.com/yoonseon12)|
